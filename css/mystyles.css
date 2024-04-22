@@ -1,0 +1,53 @@
+.colors{    
+    background-color: rgb(0, 70, 174) !important; 
+    
+}
+
+.textcolor{
+color: rgb(71, 114, 255);
+font-family: 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.body{
+    color: rgb(7, 28, 188);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight:600;
+}
+.default_div{
+    position:absolute;
+    border: solid 2px black;
+    background-color: beige;
+}
+
+.header{
+    top: 60px;
+   width: 600px;
+   right: 5px;
+
+    /* bottom: 5px; */
+    height: 100px;
+}
+.image{
+/* float:right;  */
+ /* position: fixed; */
+ margin-right: 0;
+ width: 310px;
+/* height: 250; */  
+}
+
+.background{
+    background-color: antiquewhite;
+}
+
+.video{
+    width: 500px;
+    height: 281px;
+}
